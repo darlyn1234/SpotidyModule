@@ -4,7 +4,6 @@ export interface ITrack {
     album_name: string
     release_date: string
     cover_url: string
-    cover_image: string
 }
 
 export interface IPlaylist {
